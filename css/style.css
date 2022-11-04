@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: white;
+    
+     
+}
+.nav li{
+    display:inline ;    
+    font-size: ;
+    text-align: ;
+    margin-right:40   
+    
+    
+  
+}
+
+a{
+    text-decoration:double ;
+    color: black;
+}
+
+.nav{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+
+    margin-top: 1rem ; 
+    background-color:rgb(218, 191, 156) ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    text-align:;
+    color: black;  
+    padding: 10px 
+}
+
+h1{
+    background-color:white ;
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    font-size: 1.8rem; 
+    margin-bottom: 0rem;
+    
+}
+
+p {
+    background-color:rgb(255, 252, 252) ;
+    text-align:center;
+    font-size: 25px;
+    font-style: italic;
+    position: relative;
+    top: 0px;
+    display: flex;
+    justify-content:center ;
+    margin-top: 0rem ; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:italic;
+    color: black;  
+    padding: 0px 
+    
+        
+}
+
+.productos .contenedor div{
+    width: 250px;
+    height: 260px;
+    border: solid;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: rgb(229, 216, 198);
+}
+.productos .contenedor h3 {
+    margin-bottom: 15px;
+    font-size: 25px;
+    font-style: 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}     
+.productos .contenedor a {
+    text-decoration: none;
+    color: blanchedalmond;
+    background-color: rgb(129, 119, 103);
+    padding: 3px;
+    
+}
+.productos .contenedor {
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    flex-wrap: 6px;
+    background-color: rgb(218, 202, 178);
+    display: grid;
+   grid-template-columns: 2fr 2fr;
+
+}
+.productos h2  {
+    text-align: center;
+    padding: 20px;
+    background-color: blanchedalmond;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+
+
+    
+
+.footer {
+    background-color: rgb(193, 174, 150);
+   
+}   
+
+
+
+
+
